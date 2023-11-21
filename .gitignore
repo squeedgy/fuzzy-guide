@@ -6,3 +6,7 @@ __pycache__/
 *.pyd
 .idea/
 .vscode/
+*.csv
+*.json
+.DS_Store
+*.DS_Store
