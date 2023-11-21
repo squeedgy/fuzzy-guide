@@ -1,0 +1,13 @@
+name: orbital-analysis
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - statsmodels
